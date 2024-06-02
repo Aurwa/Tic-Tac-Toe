@@ -36,6 +36,7 @@ body {
   background-color: #ffffc7;
 }
 
+#new-btn,
 #reset-btn {
   padding: 1rem;
   font-size: 1.25rem;
@@ -43,4 +44,17 @@ body {
   color: #fff;
   border-radius: 1rem;
   border: none;
+}
+
+#msg {
+  color: #ffffc7;
+  font-size: 5vmin;
+}
+
+.msg-container {
+  height: 15vmin;
+}
+
+.hide {
+  display: none;
 }
